@@ -1,5 +1,5 @@
    
-Funcionalidade: Integração das configurações do 'Dashboard' via 'Notus React
+Funcionalidade: Integração das configurações do 'Dashboard' via 'Notus React'
     
 Eu, como gestor de configurações do 'Dashboard', gostaria de disponibilizar as configurações raelizadas via 'Notus React' no 'Settings' do 'My Account'
 Para que os clientes possam utilizar 
@@ -23,7 +23,8 @@ Cenário: Validar no Layout 'Settings' a alteração de posição do 'flex-wrap'
     E na terceira posição o 'flex-wrap' com o título  'TRAFFIC'
     E valido se as demais as informações apresentadas no Dashboard do menu 'Settings' se estão corretas
 
-@PIX_Validar Exibição dos  novos campos 'hobby' e 'DataNasc' no 'User Information' 
+@PIX_Validar Exibição dos  novos campos 'hobby' e 'DataNasc' no 'User Information'
+
     Cenário: Validar exibição dos novos campos 'hobby' e DataNasc no 'User Information'
     Dado foi realizado a inserção no User Information  dos novos campos 'Hobby' e 'DataNasc' 
     Quando acessar o 'My Account' através do Dashboard 
