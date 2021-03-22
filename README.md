@@ -1,8 +1,7 @@
-Respostas do Desafio PIXON - Automação de Testes
+**Respostas do Desafio PIXON - Automação de Testes**
 
 A estruturação e escrita dos cenários de testes;
-
-**O desafio está dividido em três partes**
+O desafio está dividido em três partes
 
 1. Especificar cenários de testes utilizando linguagem Gherkin da demo\aplicação em [Demo](https://demos.creative-tim.com/notus-react/?_ga=2.154140984.1600938269.1610986568-1695319199.1610986568#/admin/settings)
 
